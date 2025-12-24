@@ -2,8 +2,6 @@
 
 This project is a Streamlit web app that turns the ingredients in your fridge into a complete meal idea using a local AI model. You type a list of ingredients (for example, `eggs, spinach, cheese, bread`), and the app asks a locally running Ollama model (`llama3.2:1b`) to generate a structured recipe including title, prep and cook time, ingredients list, and step‑by‑step instructions. Because all AI inference happens on your own machine, there are no API keys, no usage fees, and your ingredient data never leaves your computer.
 
-![alt text](image.png)
-
 ## Screenshots
 
 ### Home screen
